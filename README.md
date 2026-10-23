@@ -2,6 +2,7 @@
 
 Guarin, Jan Mikaela C.
 
+## OBJECTIVES
 
 ## COURSE INTENDED LEARNING OUTCOMES
 
