@@ -1,9 +1,1 @@
-# CPE010 - DATA STRUCTURES AND ALGORITHMS (A.Y 2026 - 2027)
-
-Guarin, Jan Mikaela C.
-
-## OBJECTIVES
-
-## COURSE INTENDED LEARNING OUTCOMES
-
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=CPE010&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Data%20Structure%20and%20Algorithm&descSize=22&descAlignY=65" alt="CPE010 banner" width="100%"/>
