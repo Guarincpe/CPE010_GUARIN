@@ -34,19 +34,19 @@ Technological Institute of the Philippines, Quezon City
 - [Linked Lists](https://github.com/Guarincpe/CPE010_GUARIN/tree/e9e8f1690c832bbeaf9a4c80b3beea8fd12e8290/PRELIM/HOA%203.1)
 - [Stacks](https://github.com/Guarincpe/CPE010_GUARIN/tree/e9e8f1690c832bbeaf9a4c80b3beea8fd12e8290/PRELIM/HOA%204.1)
 - [Queues](https://github.com/Guarincpe/CPE010_GUARIN/tree/e9e8f1690c832bbeaf9a4c80b3beea8fd12e8290/PRELIM/HOA%205.1)
-- 
+  
 ## 🍇 Midterm
-- [Searching Techniques]
-- [Sorting Techniques Pt 1]
-- [Sorting Techniques Pt 2]
-- [Tree ADT]
-- [Graphs]
+- [Searching Techniques](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/MIDTERMS/HOA%206.1)
+- [Sorting Techniques Pt 1](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/MIDTERMS/HOA%207.1)
+- [Sorting Techniques Pt 2](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/MIDTERMS/HOA%208.1)
+- [Tree ADT](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/MIDTERMS/HOA%209.1)
 
 ## 🍇 Finals
-- [Basic Algorithm Analysis]
-- [Algorithmic Strategies]
-- [Parallel Algorithms and Multithreading]
-- [Algorithm Complexity]
+- [Graphs](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2010.1)
+- [Basic Algorithm Analysis](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2011.1)
+- [Algorithmic Strategies](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2012.1)
+- [Parallel Algorithms and Multithreading](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2013.1)
+- [Algorithm Complexity](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2014.1)
 - [Prelim Laboratory Exam Set D (Stacks and Queues)]
 
 
