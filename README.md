@@ -36,10 +36,18 @@ Technological Institute of the Philippines, Quezon City
 - [Queues](https://github.com/Guarincpe/CPE010_GUARIN/tree/e9e8f1690c832bbeaf9a4c80b3beea8fd12e8290/PRELIM/HOA%205.1)
 - 
 ## 🍇 Midterm
-
-
+- [Searching Techniques]
+- [Sorting Techniques Pt 1]
+- [Sorting Techniques Pt 2]
+- [Tree ADT]
+- [Graphs]
 
 ## 🍇 Finals
+- [Basic Algorithm Analysis]
+- [Algorithmic Strategies]
+- [Parallel Algorithms and Multithreading]
+- [Algorithm Complexity]
+- [Prelim Laboratory Exam Set D (Stacks and Queues)]
 
 
 ---
