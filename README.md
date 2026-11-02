@@ -15,7 +15,7 @@ Technological Institute of the Philippines, Quezon City
 
 ## Course Objectives
 
-> This course introduces students to the study of algorithms and how their performance is evaluated. It also covers building core data structures in C++, such as Abstract Data Types, Linked Lists, Stacks, Queues, Trees, and Graphs. Along the way, mathematical methods are used to judge how efficient the different algorithms are, including the typical operations performed on each data structure. Students then apply what they have learned by writing their own C++ programs and testing how well they perform on real systems.
+> This course aims to teach students how to build core data structures in C++, such as Abstract Data Types, Linked Lists, Stacks, Queues, Trees, and Graphs. Along the way, mathematical methods are used to judge how efficient the different algorithms are, including the typical operations performed on each data structure. Students then apply what they have learned by writing their own C++ programs and testing how well they perform on real systems.
 
 ---
 
