@@ -47,7 +47,7 @@ Technological Institute of the Philippines, Quezon City
 - [Algorithmic Strategies](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2012.1)
 - [Parallel Algorithms and Multithreading](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2013.1)
 - [Algorithm Complexity](https://github.com/Guarincpe/CPE010_GUARIN/tree/ecc9786e3ed109ee7e78212e34b5de494627d68c/FINALS/HOA%2014.1)
-- [Prelim Laboratory Exam Set D (Stacks and Queues)]
+- [Prelim Laboratory Exam Set D (Stacks and Queues)](https://github.com/Guarincpe/CPE010_GUARIN/tree/8147c96737facc481c1a2669eae56c4485cbdc0a/FINALS/PRELIM%20EXAM%20SET%20D)
 
 
 ---
